@@ -44,6 +44,7 @@ knife[:twitter_consumer_key]       = 'YOUR_CONSUMER_KEY'
 knife[:twitter_consumer_secret]    = 'YOUR_CONSUMER_SECRET'
 knife[:twitter_oauth_token]        = 'YOUR_OAUTH_TOKEN'
 knife[:twitter_oauth_token_secret] = 'YOUR_OAUTH_TOKEN_SECRET'
+knife[:twitter_user_name]          = 'YOUR_USER_NAME'
 ```
 
 Or use common command line option.
